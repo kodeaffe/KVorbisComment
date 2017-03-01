@@ -1,0 +1,241 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2002-01-20 12:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kvorbiscomment.cpp:89
+msgid "Opens an existing document"
+msgstr ""
+
+#: kvorbiscomment.cpp:90
+msgid "Opens a recently used file"
+msgstr ""
+
+#: kvorbiscomment.cpp:91
+msgid "Saves the actual document"
+msgstr ""
+
+#: kvorbiscomment.cpp:92
+msgid "Saves the actual document as..."
+msgstr ""
+
+#: kvorbiscomment.cpp:95
+msgid "Quits the application"
+msgstr ""
+
+#: kvorbiscomment.cpp:96
+msgid "Cuts the selected section and puts it to the clipboard"
+msgstr ""
+
+#: kvorbiscomment.cpp:97
+msgid "Copies the selected section to the clipboard"
+msgstr ""
+
+#: kvorbiscomment.cpp:98
+msgid "Pastes the clipboard contents to actual position"
+msgstr ""
+
+#: kvorbiscomment.cpp:99
+msgid "Enables/disables the toolbar"
+msgstr ""
+
+#: kvorbiscomment.cpp:107
+msgid "&Replace"
+msgstr ""
+
+#: kvorbiscomment.cpp:109
+msgid "&Append"
+msgstr ""
+
+#: kvorbiscomment.cpp:114
+msgid "&Comments"
+msgstr ""
+
+#: kvorbiscomment.cpp:150
+msgid "Edit Comments File"
+msgstr ""
+
+#: kvorbiscomment.cpp:343 kvorbiscomment.cpp:384
+msgid "*.ogg|Ogg files"
+msgstr ""
+
+#: kvorbiscomment.cpp:343
+msgid "Open File..."
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:108
+msgid ""
+"The current file has been modified.\n"
+"Do you want to save it?"
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:178 kvorbiscommentdoc.cpp:234
+#: kvorbiscommentdoc.cpp:250
+msgid "Vorbis says: "
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:180
+msgid "Sorry, but the selected file is no valid Ogg Vorbis file!"
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:180 kvorbiscommentdoc.cpp:236
+msgid "Invalid File"
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:236
+msgid "Sorry, could not open the file!"
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:252
+msgid "Sorry, could not write comments!"
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:252 kvorbiscommentdoc.cpp:263
+msgid "File Not Written"
+msgstr ""
+
+#: kvorbiscommentdoc.cpp:263
+msgid ""
+"Sorry, could not write comments!\n"
+"Are the permissions set correctly?"
+msgstr ""
+
+#: main.cpp:25
+msgid ""
+"KVorbisComment\n"
+"This is a GUI for vorbiscomment RC3. vorbiscomment is a program from the "
+"vorbis-tools package\n"
+"to edit the tags of an Ogg Vorbis file.\n"
+"And, by the way, this is my first real application for KDE. :)"
+msgstr ""
+
+#: main.cpp:30
+msgid "file to open"
+msgstr ""
+
+#: main.cpp:37
+msgid "KVorbisComment"
+msgstr ""
+
+#: newtag.cpp:34 newtagdlg.cpp:34
+msgid "Add New Tag"
+msgstr ""
+
+#: newtag.cpp:57 newtagdlg.cpp:57
+msgid "Name"
+msgstr ""
+
+#: editcommentswidget.cpp:32
+msgid "Form1"
+msgstr ""
+
+#: editcommentswidget.cpp:53
+msgid "TITLE"
+msgstr ""
+
+#: editcommentswidget.cpp:57
+msgid "VERSION"
+msgstr ""
+
+#: editcommentswidget.cpp:61
+msgid "ALBUM"
+msgstr ""
+
+#: editcommentswidget.cpp:65
+msgid "TRACKNUMBER"
+msgstr ""
+
+#: editcommentswidget.cpp:69
+msgid "ARTIST"
+msgstr ""
+
+#: editcommentswidget.cpp:73
+msgid "PERFORMER"
+msgstr ""
+
+#: editcommentswidget.cpp:77
+msgid "ORGANIZATION"
+msgstr ""
+
+#: editcommentswidget.cpp:81
+msgid "DESCRIPTION"
+msgstr ""
+
+#: editcommentswidget.cpp:85
+msgid "GENRE"
+msgstr ""
+
+#: editcommentswidget.cpp:89
+msgid "DATE"
+msgstr ""
+
+#: editcommentswidget.cpp:93
+msgid "LOCATION"
+msgstr ""
+
+#: editcommentswidget.cpp:97
+msgid "COPYRIGHT"
+msgstr ""
+
+#: editcommentswidget.cpp:101
+msgid "CONTACT"
+msgstr ""
+
+#: editcommentswidget.cpp:105
+msgid "ISRC"
+msgstr ""
+
+#: editcommentswidget.cpp:109
+msgid "DISCID"
+msgstr ""
+
+#: editcommentswidget.cpp:113
+msgid "Add New Tag..."
+msgstr ""
+
+#: editcommentswidget.cpp:241
+msgid "&Replace Comments"
+msgstr ""
+
+#: editcommentswidget.cpp:246
+msgid "&Append Comments"
+msgstr ""
+
+#: kvorbiscommentdoc.moc.cpp:42 kvorbiscommentdoc.moc.cpp:47
+msgid "KVorbisCommentDoc"
+msgstr ""
+
+#: kvorbiscomment.moc.cpp:42 kvorbiscomment.moc.cpp:47
+msgid "KVorbisCommentApp"
+msgstr ""
+
+#: editcomments.moc.cpp:42 editcomments.moc.cpp:47
+msgid "EditComments"
+msgstr ""
+
+#: kvorbiscommentview.moc.cpp:42 kvorbiscommentview.moc.cpp:47
+msgid "KVorbisCommentView"
+msgstr ""
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""

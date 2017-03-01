@@ -1,0 +1,7 @@
+title=hip-hop
+tracknumber=4
+artist=dead prez
+album=lets get free
+date=2000
+var1=x
+var2=y

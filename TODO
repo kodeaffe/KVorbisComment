@@ -1,0 +1,18 @@
+- configure should look for ogg and vorbis.. dunno what to do with all the automake/autoconf-stuff, especially together with kdevelop
+- find a way to prevent this when some dialogs are shown:
+	WARNING: KDE detected X Error: BadMatch (invalid parameter attributes) 8 Major opcode:  42
+- more languages (svenska and nederlands)
+- debian package
+- user documentation
+- figure out, why automatic api-documentation fails sometimes
+- ctrl+a/ctr+e - problem: overwrite lineedit-features for menuitems to work?
+- what is
+
+fatal parsing error: unexpected end of file in line 1
+fatal parsing error: error while parsing prolog in line 1
+Parsing error
+
+when starting the compiled distribution binary?
+
+
+- a real feature to add: batch mode

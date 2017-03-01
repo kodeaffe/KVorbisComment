@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE KDevPrjSession ><KDevPrjSession>
+ <Mainframe MaximizeMode="1" />
+ <DocsAndViews NumberOfDocuments="3" >
+  <Doc0 CursorPosLine="71" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="18" FileName="/home/elkw/kvorbiscomment/kvorbiscomment/kvorbiscommentview.h" >
+   <View0 Top="0" Width="929" Attach="0" Height="496" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc0>
+  <Doc1 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="17" FileName="/home/elkw/kvorbiscomment/kvorbiscomment/main.cpp" >
+   <View0 Top="0" Width="929" Attach="0" Height="496" Left="0" Focus="1" Type="KWriteView" MinMaxMode="0" />
+  </Doc1>
+  <Doc2 Type="CDocBrowser" NumberOfViews="1" FileName="file:/usr/share/doc/kdelibs3-doc/html/kdeui/index.html" >
+   <View Top="0" Width="929" Attach="0" Height="496" Left="0" Focus="0" Type="KHTMLView" MinMaxMode="0" />
+  </Doc2>
+ </DocsAndViews>
+</KDevPrjSession>

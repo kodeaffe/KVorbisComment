@@ -1,0 +1,12 @@
+# KDE Config File  
+[Desktop Entry]
+Type=Application
+Exec=kvorbiscomment -caption "%c" %i %m  
+Icon=kvorbiscomment.png
+MiniIcon=kvorbiscomment.png
+DocPath=kvorbiscomment/index.html
+Comment=
+Comment[de]=
+Terminal=0
+Name=KVorbisComment
+Name[de]=KVorbisComment

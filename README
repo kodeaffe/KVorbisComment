@@ -1,0 +1,22 @@
+hi folx..
+
+this application does basically the same as vorbiscomment does. but this one has a gui.
+
+one situation where it was superior to vorbiscomment during my fiddlings:
+
+- rip, encode, tag a cd with abcde
+- my knowledge about abcde (or perhaps freedb comments files) did not include how to append "DATE" and "GENRE" to the comments
+- so afterwards open kvorbiscomment and konqueror with the directory of the encoded files
+- enter the DATE and GENRE in the dialog for the "comments file"
+- drag an ogg file to kvorbiscomment
+- hit "append comments"
+- drag the next ogg file to kvorbiscomment and hit yes when asked for saving the old one
+- hit "append comments"
+- etc.
+
+this post-tagging is quite fast.
+
+since this is my first kde/configure-app to ship, please report any errors or difficulties. i will try to fix it, then. :)
+
+cheers,
+ sebastian henschel
